@@ -1,0 +1,17 @@
+.con {
+  height: 20rem;
+  width: 80%;
+  background: lightgreen;
+  align-items: center;
+  justify-content: center;
+  margin: auto;
+  color: salmon; }
+  .con__item {
+    height: 10rem;
+    width: 30%;
+    background: purple;
+    color: red; }
+    .con__item-abc {
+      height: 10rem;
+      width: 30%;
+      background: orange; }
